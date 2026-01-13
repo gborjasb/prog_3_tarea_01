@@ -1,4 +1,6 @@
-# Tensor Library - C++
+# Tensor Library - C++ 
+
+## Borjas Bernaola Gerald  
 
 Biblioteca de tensores en C++ con soporte para operaciones matemáticas y transformaciones, similar a NumPy/PyTorch.
 
